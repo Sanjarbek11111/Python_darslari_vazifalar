@@ -2,7 +2,7 @@
 """
 Created on Tue Sep 13 03:57:43 2022
 
-@author: Python devoloper
+@author: Python devoloper Python asoslari
 """
 
 # Masala. 1 dan n gacha bolgan sonlar yigindisini toping
